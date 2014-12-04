@@ -14,11 +14,11 @@ Assignment Submission Files
 
 Instructions
 ------------
-1) Clone the code using 'git clone https://github.com/ptonpay/DEVELOPING_BIG_DATA_PRODUCTS.git YOURDIRECTORY'
-2) Load  RStudio
-3) Set your working directory to YOURDIRECTORY using setwd("YOURDIRECTORY")
-4) Load the Shiny library using library(shiny)
-5) Run the application using runApp()
+1) Clone the code using 'git clone https://github.com/ptonpay/DEVELOPING_BIG_DATA_PRODUCTS.git YOURDIRECTORY'  
+2) Load  RStudio  
+3) Set your working directory to YOURDIRECTORY using setwd("YOURDIRECTORY")  
+4) Load the Shiny library using library(shiny)  
+5) Run the application using runApp()  
 
 You will see the application in a browser. Follow the instructions to use the application.
 
