@@ -7,10 +7,10 @@ Coursera Course: Developing Data Products
 
 Assignment Submission Files
 
-1) ui.R
-2) server.R
-3) README.md
-4) BigDataProduct.html
+1) ui.R  
+2) server.R  
+3) README.md  
+4) BigDataProduct.html  
 
 Instructions
 ------------
